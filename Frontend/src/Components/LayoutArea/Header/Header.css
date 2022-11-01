@@ -1,0 +1,18 @@
+.Header .title {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.title :hover {
+    transform: scale(1.05);
+    color: grey;
+}
+
+.Header label {
+    position: relative;
+    left: -7px;
+    font-size: xx-large;
+    color: white;
+}

@@ -1,0 +1,41 @@
+.VacationList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+    position: relative;
+    top: 15%;
+    transform: translate(50% , 0%);
+    right: 50%;
+    padding-top: 5%;
+    margin-left:45%;
+}
+
+.VacationList > a {
+	position: absolute;
+    right: 20px;
+    text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.VacationList .add-btn {
+    margin-bottom: -25px;
+    padding: 15px;
+    
+}
+
+.VacationList .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+    padding-top: 5%;
+}

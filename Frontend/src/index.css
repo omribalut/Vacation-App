@@ -1,0 +1,19 @@
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    /* background-image:url( "https://wallpaperaccess.com/full/42545.jpg"); */
+
+}
+
+a {
+    color: blue;
+}
+
+.Box {
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+    align-items: center;
+
+}

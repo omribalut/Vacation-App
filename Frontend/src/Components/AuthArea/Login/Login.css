@@ -1,0 +1,36 @@
+.Login > form {
+	width: 250px;
+    padding: 15px;
+    border: 2px solid #1C6EA4;
+    -webkit-border-radius: 40px 40px 40px 40px;
+    -moz-border-radius: 40px 40px 40px 40px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.Login input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+    
+}
+
+.Login button {
+    width: 100%;
+    margin: 10px 0 20px 0;
+}
+
+.Login span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+    
+}
+
+.Login a{
+    text-decoration: none;
+    
+}
+
+.Login h2{
+    margin-bottom: 25px;
+}

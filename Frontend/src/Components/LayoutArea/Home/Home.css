@@ -1,0 +1,23 @@
+.Home {
+    text-align: center;
+    padding: 35px;
+    background-image: url('https://cdn.wallpapersafari.com/12/0/ixnIPh.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 1000px;
+
+  }
+
+  .Home .welcome{
+    color: light;
+    font-size: xx-large;
+    width: 403px;
+    padding: 50px;
+    margin: auto;
+    border: 3px solid #a9d2ee;
+    -webkit-border-radius: 40px 40px 40px 40px;
+    -moz-border-radius: 40px 40px 40px 40px;
+    border-radius: 40px 40px 40px 40px;
+    background-image: linear-gradient(45deg, beige, #a9d2ee);
+  }
